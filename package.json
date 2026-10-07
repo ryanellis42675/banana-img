@@ -1,0 +1,27 @@
+{
+  "name": "banana-img",
+  "version": "0.1.0",
+  "description": "Official client SDK and utilities for Banana Img - Free Nano Banana AI Image Generator & Editor (https://banana-img.com)",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "homepage": "https://banana-img.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanellis42675/banana-img.git"
+  },
+  "bugs": {
+    "url": "https://banana-img.com"
+  },
+  "keywords": [
+    "banana-img",
+    "nano-banana",
+    "nano-banana-ai",
+    "ai-image-generator",
+    "photo-editor",
+    "text-to-image",
+    "clear-typography",
+    "banana-img"
+  ],
+  "author": "Ryan Ellis <support@banana-img.com> (https://banana-img.com)",
+  "license": "MIT"
+}

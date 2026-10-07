@@ -1,0 +1,14 @@
+[package]
+name = "banana_img"
+version = "0.1.0"
+edition = "2021"
+description = "Official client SDK wrapper and metadata for Banana Img (https://banana-img.com)"
+homepage = "https://banana-img.com"
+repository = "https://github.com/ryanellis42675/banana-img"
+documentation = "https://docs.rs/banana_img"
+license = "MIT"
+readme = "README.md"
+keywords = ["ai", "image-generator", "nano-banana", "editor", "banana-img"]
+categories = ["multimedia", "web-programming"]
+
+[dependencies]

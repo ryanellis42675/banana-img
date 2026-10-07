@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "banana-img"
+version = "0.1.0"
+description = "Official client SDK and utilities for Banana Img - Free Nano Banana AI Image Generator (https://banana-img.com)"
+readme = "README.md"
+authors = [{ name = "Ryan Ellis", email = "support@banana-img.com" }]
+license = { text = "MIT" }
+keywords = ["nano-banana", "ai-image-generator", "photo-editor", "banana-img", "banana-img"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+requires-python = ">=3.8"
+
+[project.urls]
+"Homepage" = "https://banana-img.com"
+"Documentation" = "https://banana-img.com"
+"Source" = "https://github.com/ryanellis42675/banana-img"
+"Bug Tracker" = "https://banana-img.com"

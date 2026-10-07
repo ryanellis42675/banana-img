@@ -1,0 +1,42 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.github.ryanellis42675</groupId>
+    <artifactId>banana-img</artifactId>
+    <version>0.1.0</version>
+    <packaging>jar</packaging>
+
+    <name>Banana Img</name>
+    <description>Official client SDK and prompt helper for Banana Img - Free Nano Banana AI Image Generator (https://banana-img.com)</description>
+    <url>https://banana-img.com</url>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Ryan Ellis</name>
+            <email>support@banana-img.com</email>
+            <organization>Banana Img</organization>
+            <organizationUrl>https://banana-img.com</organizationUrl>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:git://github.com/ryanellis42675/banana-img.git</connection>
+        <developerConnection>scm:git:ssh://github.com:ryanellis42675/banana-img.git</developerConnection>
+        <url>https://github.com/ryanellis42675/banana-img</url>
+    </scm>
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+</project>

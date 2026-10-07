@@ -1,0 +1,26 @@
+{
+  "name": "ryanellis42675/banana-img",
+  "description": "Official SDK and metadata helper for Banana Img ( https://banana-img.com )",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://banana-img.com",
+  "authors": [
+    {
+      "name": "Banana Img Team",
+      "email": "support@banana-img.com",
+      "homepage": "https://banana-img.com"
+    }
+  ],
+  "support": {
+    "issues": "https://banana-img.com",
+    "source": "https://github.com/ryanellis42675/banana-img"
+  },
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "BananaImg\\": "src/"
+    }
+  }
+}

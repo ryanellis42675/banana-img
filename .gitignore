@@ -1,0 +1,10 @@
+node_modules/
+dist/
+target/
+.dart_tool/
+.build/
+*.gem
+*.nupkg
+*.pyc
+__pycache__/
+.DS_Store

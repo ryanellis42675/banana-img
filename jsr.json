@@ -1,5 +1,5 @@
 {
-  "name": "@ryanellis42675/banana-img",
+  "name": "@ryanellis/banana-img",
   "version": "0.1.0",
   "exports": "./mod.ts"
 }
